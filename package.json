@@ -1,0 +1,16 @@
+{
+  "name": "boilerstrapalize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "boilerplate",
+    "bootstrap",
+    "normalize"
+  ],
+  "author": "Geoffrey Floyd (geoffrey.floyd@hoomanlogic.com)",
+  "license": "ISC"
+}
